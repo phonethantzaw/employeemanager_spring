@@ -7,19 +7,8 @@
 
 - [Repo](https://github.com/phonethantzaw/employeemanager_spring "employeemanager_spring Repo")
 
-- [Live](<Homepage url> "Live View")
-
 - [Bugs](https://github.com/phonethantzaw/employeemanager_spring/issues "Issues Page")
 
-- [API](<API Link> "API")
-
-## Screenshots
-
-![Home Page](/screenshots/1.png "Home Page")
-
-![](/screenshots/2.png)
-
-![](/screenshots/3.png)
 
 ## Available Commands
 
